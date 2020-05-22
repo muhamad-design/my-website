@@ -1,0 +1,11 @@
+
+h1.uppercase.hello {
+	font-size: 100px;
+	color: red;
+}
+
+span {
+
+text-transform: uppercase;
+
+}
